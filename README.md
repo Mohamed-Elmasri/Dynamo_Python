@@ -2,8 +2,8 @@
 
 # Dynamo with Python Course
 
-Welcome to the official repository for the [Dynamo with Python Course]([https://academy.mohamedelmasri.com/diplomas/mastering-dynamo-bim/](https://academy.mohamedelmasri.com/courses/dynamo-with-python/)) course by [Mohamed Elmasri](https://www.linkedin.com/in/mohamedelmasri) and [ME Academy](https://academy.mohamedelmasri.com/diplomas/mastering-dynamo-bim/)
-This course is part of the **ME Academy** BIM Automation Program and focuses on teaching Python scripting inside Autodesk Dynamo for advanced workflows.
+Welcome to the official repository for the [Dynamo with Python Course](https://academy.mohamedelmasri.com/courses/dynamo-with-python/) course by [Mohamed Elmasri](https://www.linkedin.com/in/mohamedelmasri) and [ME Academy](https://academy.mohamedelmasri.com/)
+This course is part of the **ME Academy** [Mastering Dynamo BIM Diploma](https://academy.mohamedelmasri.com/diplomas/mastering-dynamo-bim/) , and focuses on teaching Python scripting inside Autodesk Dynamo for advanced workflows.
 
 ---
 
