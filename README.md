@@ -32,6 +32,7 @@ unlock the full potential of Dynamo using Python.
 ```bash
 Dynamo_Python/
 ├── 01_Gettign_Started          # Introduction for Python
-├── 02_Primitive_Types          # Variables, Data Types 
-├── 03_Control_Flow             # if conditions, loops
+├── 02_Primitive_Types          # Variables, and Data Types 
+├── 03_Collections              # List, Tuple, Set, and Dictionary
+├── 04_Control_Flow             # if conditions, and loops
 └── README.md                   # This file
