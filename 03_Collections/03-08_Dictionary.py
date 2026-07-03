@@ -1,0 +1,56 @@
+# 1 Create a Dictionary
+
+student = {
+	"name"  : "Ali",
+	"grade" : 90,
+	"passed": True
+}
+
+print(student)
+
+# 2 Access a Value
+
+student = {
+	"name"  : "Ali",
+	"grade" : 90,
+	"passed": True
+}
+
+print(student["name"])
+print(student["grade"])
+
+# 3 Modify a Value
+
+student = {
+	"name"  : "Ali",
+	"grade" : 90,
+	"passed": True
+}
+
+student["grade"] = 95
+
+print(student)
+
+# 4 Add a New Key and Value
+
+student = {
+	"name"  : "Ali",
+	"grade" : 90,
+	"passed": True
+}
+
+student["age"] = 20
+
+print(student)
+
+# 5 Delete a Key and Value
+
+student = {
+	"name"  : "Ali",
+	"grade" : 90,
+	"passed": True
+}
+
+del student["passed"]
+
+print(student)
