@@ -1,4 +1,4 @@
-# 1 keys() - Return all keys
+# 1️⃣ keys() - Return all keys
 
 student = {
 	"name"  : "Ali",
@@ -12,7 +12,7 @@ print(student.keys())
 # dict_keys(['name', 'grade', 'passed'])
 
 
-# 2 values() - Return all values
+# 2️⃣ values() - Return all values
 
 student = {
 	"name"  : "Ali",
@@ -26,7 +26,7 @@ print(student.values())
 # dict_values(['Ali', 90, True])
 
 
-# 3 items() - Return all key-value pairs
+# 3️⃣ items() - Return all key-value pairs
 
 student = {
 	"name"  : "Ali",
@@ -40,7 +40,7 @@ print(student.items())
 # dict_items([('name', 'Ali'), ('grade', 90), ('passed', True)])
 
 
-# 4 get() - Return the value of a key
+# 4️⃣ get() - Return the value of a key
 
 student = {
 	"name" : "Ali",

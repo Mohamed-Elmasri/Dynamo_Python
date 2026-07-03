@@ -1,4 +1,4 @@
-# 1 Create a Dictionary
+# 1️⃣ Create a Dictionary
 
 student = {
 	"name"  : "Ali",
@@ -8,7 +8,7 @@ student = {
 
 print(student)
 
-# 2 Access a Value
+# 2️⃣ Access a Value
 
 student = {
 	"name"  : "Ali",
@@ -19,7 +19,7 @@ student = {
 print(student["name"])
 print(student["grade"])
 
-# 3 Modify a Value
+# 3️⃣ Modify a Value
 
 student = {
 	"name"  : "Ali",
@@ -31,7 +31,7 @@ student["grade"] = 95
 
 print(student)
 
-# 4 Add a New Key and Value
+# 4️⃣ Add a New Key and Value
 
 student = {
 	"name"  : "Ali",
@@ -43,7 +43,7 @@ student["age"] = 20
 
 print(student)
 
-# 5 Delete a Key and Value
+# 5️⃣ Delete a Key and Value
 
 student = {
 	"name"  : "Ali",
